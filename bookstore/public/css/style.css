@@ -1,0 +1,43 @@
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.navbar-brand {
+  font-size: 18px;
+}
+
+.book-img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.no-image-box {
+  height: 180px;
+  background-color: #e9ecef;
+  color: #6c757d;
+  font-size: 13px;
+}
+
+.card {
+  border-radius: 4px;
+}
+
+footer {
+  font-size: 12px;
+}
+
+.form-label {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.badge {
+  font-size: 11px;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  font-size: 13px;
+}
