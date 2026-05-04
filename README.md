@@ -50,6 +50,7 @@ Quantity: Number
 
 Description: String
 
+
 Image: String (Path to the uploaded file)
 
 ⚙️ How to Run
@@ -62,4 +63,6 @@ Configure your MongoDB URI in the config file.
 Start the server using nodemon app.js.
 
 Open localhost:3000 in your browser.
-<img width="1920" height="1032" alt="Screenshot 2026-05-04 013154" src="https://github.com/user-attachments/assets/aae20ec9-dab1-4c4d-90a8-1f747f4b2780" />
+
+<img width="1600" height="736" alt="WhatsApp Image 2026-05-03 at 11 04 11 PM" src="https://github.com/user-attachments/assets/b2a4295b-9f78-4b80-9738-f206e21cc2c2" />
+<img width="1600" height="733" alt="WhatsApp Image 2026-05-03 at 11 04 46 PM" src="https://github.com/user-attachments/assets/49730ce2-17d3-4f3c-a957-86fe6ab5cfb9" />
